@@ -8,7 +8,6 @@ __pycache__/
 
 *.mp4
 datasets/
-
 # Distribution / packaging
 .Python
 build/
